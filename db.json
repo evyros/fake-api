@@ -1,0 +1,94 @@
+{
+  "posts": [
+	{
+	  "id": 1,
+	  "userId": 1,
+	  "created": 1573955292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/street.jpeg",
+	  "title": "Just walking on the streets with my girl",
+	  "tags": ["street", "walkforsoul", "freedom"],
+	  "likes": 210
+	},
+	{
+	  "id": 2,
+	  "userId": 1,
+	  "created": 1573845292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/kid-tree.jpeg",
+	  "title": "Playing between the trees - I miss my childhood",
+	  "tags": ["childhood", "memories", "kids", "playing"],
+	  "likes": 403
+	},
+	{
+	  "id": 3,
+	  "userId": 1,
+	  "created": 1573745292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/baby.jpeg",
+	  "title": "My love",
+	  "tags": ["baby", "mylove"],
+	  "likes": 421
+	},
+	{
+	  "id": 4,
+	  "userId": 1,
+	  "created": 1573545292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/bicycle.jpeg",
+	  "title": "Life in the suburbs",
+	  "tags": ["suburbs", "bicycle", "oldcity"],
+	  "likes": 21
+	},
+	{
+	  "id": 5,
+	  "userId": 1,
+	  "created": 1573445292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/cliff.jpeg",
+	  "title": "Would you jump? I'm scared.",
+	  "tags": ["cliff", "ocean", "dare", "cliffjumping"],
+	  "likes": 54
+	},
+	{
+	  "id": 6,
+	  "userId": 1,
+	  "created": 1573245292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/containers.jpeg",
+	  "title": "High above, this is how we look like. Containers are just waiting - What a colorful image.",
+	  "tags": ["containers", "colors", "highview"],
+	  "likes": 67
+	},
+	{
+	  "id": 7,
+	  "userId": 1,
+	  "created": 1573045292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/cute-dog.jpeg",
+	  "title": "Meet Jacobs, my 9 years old dog. Today we celebrate 7 years together. Jacobs thank you for coming into my life! love you so much.",
+	  "tags": ["cutedog", "myjacobs"],
+	  "likes": 780
+	},
+	{
+	  "id": 8,
+	  "userId": 1,
+	  "created": 1572745292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/lady.jpeg",
+	  "title": "Lady sitting on the stairs",
+	  "tags": ["lady", "stairs"],
+	  "likes": 14
+	},
+	{
+	  "id": 9,
+	  "userId": 1,
+	  "created": 1572545292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/stripes.jpeg",
+	  "title": "I'm not in jail mama ;)",
+	  "tags": ["profile", "justme"],
+	  "likes": 147
+	},
+	{
+	  "id": 10,
+	  "userId": 1,
+	  "created": 1572345292,
+	  "image": "https://raw.githubusercontent.com/evyros/fake-api/master/images/walking.jpeg",
+	  "title": "Just a normal day in the city. My legs hurt.",
+	  "tags": ["walking", "city", "suburbs", "legshurt"],
+	  "likes": 679
+	}
+  ]
+}
